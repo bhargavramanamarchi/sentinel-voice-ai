@@ -1,7 +1,5 @@
-gradio
 google-generativeai
 murf
-speechrecognition
+SpeechRecognition
 pydub
 requests
-ffmpeg-python
